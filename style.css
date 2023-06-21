@@ -1,0 +1,23 @@
+html,body{
+    height: 100%;
+    font-size: larger;
+    margin: 0; 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 450;
+    line-height: 1.6em;
+    color: crimson;
+    
+}
+
+.p1{
+    background-image: url(images/im1.jpg);
+    min-height: 100%;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+     
+
+
+
+}
+
